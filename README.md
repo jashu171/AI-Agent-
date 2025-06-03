@@ -2,6 +2,11 @@
 
 <br/>
 
+## 🎥 Demo Video
+**[Watch the Demo Video](https://drive.google.com/file/d/1PV2COFVa8gs0ZY7JOIhoGOhG1LZvzRla/view?usp=sharing)** - See Browser Use Web UI in action!
+
+<br/>
+
 [![GitHub stars](https://img.shields.io/github/stars/browser-use/web-ui?style=social)](https://github.com/browser-use/web-ui/stargazers)
 [![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
 [![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://docs.browser-use.com)
